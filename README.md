@@ -7,7 +7,7 @@ All the code is commeted in Norwegian, while the code itself structure wise is w
 
 # Features
 
-Led brightness controll
-Arduino Cloud Compability
-Analog Sensor reading
-Push buttons
+- Led brightness controll
+- Arduino Cloud Compability
+- Analog Sensor reading
+- Push buttons
