@@ -2,7 +2,7 @@
 
 Here is the project for an Arduino controlled LED-strip.
 The sketch.ino has the code used for the prosject.
-While Thing.h has mostly the bakcend for the digital buttons to work with Arduino Cloud.
+While Thing.h has mostly the backend for the digital buttons to work with Arduino Cloud.
 All the code is commeted in Norwegian, while the code itself structure wise is written in english.
 
 # Features
